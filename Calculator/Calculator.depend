@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554413047 source:c:\users\mariano\desktop\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554413230 c:\users\mariano\desktop\calculator\calculadora.h
+
+1554412975 source:c:\users\mariano\desktop\calculator\calculadora.c
+
